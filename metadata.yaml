@@ -1,9 +1,13 @@
 _repo: Los-Raros-Obras-Completas-Vol-VI_50365
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Ochoa, Enrique
     gutenberg_agent_id: '44413'
     url: http://www.gutenberg.org/2009/agents/44413
+covers:
+- cover_type: archival
+  image_path: 50365-h/images/cover.jpg
 creator:
   author:
     agent_name: Darío, Rubén
@@ -18,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31590
     wikipedia: http://en.wikipedia.org/wiki/Rub%C3%A9n_Dar%C3%ADo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50365#Los-Raros-Obras-Completas-Vol-VI
 gutenberg_issued: '2015-11-01'
 gutenberg_type: Text
 identifiers:
